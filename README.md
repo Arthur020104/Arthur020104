@@ -15,8 +15,8 @@
 </div>
 <div>
   <ul>
-  <li>🔭 I’m currently working on my cs50 projects</li>
- <!-- <li>🌱 I’m currently learning the basics of Flask</li>-->
+  <li>🔭 I’m currently working on my cs50web projects</li>
+  <li>🌱 I’m currently learning the basics of Django</li>
   <li>📫 Reach me on discord: Arthur;..#7460</li>
   </ul>
  </div>
