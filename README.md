@@ -1,5 +1,5 @@
-### Hi! I am Arthur
-
+### Oi eu sou o Arthur Carvalho.
+<p>Estou atualmente estudando o curso <a href'https://cs50.harvard.edu/web/2020/'>"cs50web"</a></p>
  <div>
   <a href="https://github.com/Arthur020104">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur020104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,10 +13,10 @@
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-<div>
+<!--<div>
   <ul>
   <li>🔭 I’m currently working on my cs50web projects</li>
   <li>🌱 I’m currently learning the basics of Django</li>
   <li>📫 Reach me on discord: Arthur;..#7460</li>
   </ul>
- </div>
+ </div>-->
