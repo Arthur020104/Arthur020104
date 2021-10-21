@@ -1,5 +1,6 @@
 ### Oi eu sou o Arthur Carvalho.
-<p>Estou atualmente estudando o curso <a href'https://cs50.harvard.edu/web/2020/'>"cs50web"</a></p>
+<p>Estou atualmente estudando o curso <a href''>"cs50web"</a></p>
+https://cs50.harvard.edu/web/2020/
  <div>
   <a href="https://github.com/Arthur020104">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur020104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
