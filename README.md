@@ -14,6 +14,7 @@ https://cs50.harvard.edu/web/2020/
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+<img style="display:none;" src"https://profile-counter.glitch.me/%7BArthur020104%7D/count.svg">
 <!--<div>
   <ul>
   <li>🔭 I’m currently working on my cs50web projects</li>
