@@ -1,4 +1,5 @@
 ### Oi eu sou o Arthur Carvalho.
+<p>Iniciando o curso de sistemas de informação Ufu 2022/1.</p>
 <p>Estou atualmente estudando o curso <a href''>"cs50web"</a></p>
 https://cs50.harvard.edu/web/2020/
  <div>
