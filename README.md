@@ -1,7 +1,5 @@
 ### Oi eu sou o Arthur Carvalho.
 <p>Iniciando o curso de sistemas de informação Ufu 2022/1.</p>
-<p>Estou atualmente estudando o curso cs50web/(Python, JavaScript and SQL/ frameworks Django and Bootstrap).</p>
-https://cs50.harvard.edu/web/2020/
  <div>
   <a href="https://github.com/Arthur020104">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur020104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
