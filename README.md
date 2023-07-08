@@ -1,5 +1,5 @@
 ### Oi eu sou o Arthur Carvalho.
- <p>Iniciando o curso de sistemas de informação Ufu 2022/1.</p>
+ <p>Estudante de sistemas de informação na UFU.</p>
 <div>
   <a href="https://github.com/Arthur020104">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur020104&show_icons=true&theme=tokyonight&count_private=true"/>
